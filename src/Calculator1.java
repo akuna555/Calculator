@@ -1,4 +1,5 @@
 public class Calculator1 {
+    //this is very useful metgod
     public static double add(double num1, double num2){
 
         return num1+num2;
