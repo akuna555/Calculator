@@ -13,6 +13,6 @@ public class Calculator1 {
     public static void message(){
 
     }
-    public static void answer(){
+    public static int  num (int n){
     }
 }
