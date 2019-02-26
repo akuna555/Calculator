@@ -10,4 +10,7 @@ public class Calculator1 {
 
         return result;
     }
+    public static void message(){
+
+    }
 }
