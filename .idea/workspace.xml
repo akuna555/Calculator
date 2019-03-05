@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7160ceec-2303-44aa-9802-7ccc59bdb3b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Codes/Practice3.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,40 +15,40 @@
     <session id="-1744667518">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="18" />
+          <entry key="java" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="18" />
+          <entry key="JAVA" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="java" value="4265" />
+          <entry key="java" value="5254" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4265" />
+          <entry key="JAVA" value="5254" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
@@ -58,68 +57,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Calculator1.java">
+        <entry file="file://$PROJECT_DIR$/src/java_Codes/Frequency_Of_Each_Char.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-              <folding>
-                <element signature="e#362#363#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="441">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Fibonacci.java">
+        <entry file="file://$PROJECT_DIR$/src/java_Codes/Swapping.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            <state relative-caret-position="273">
+              <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Max_Number_From_Array.java">
+        <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/Sum_OfNumbers_With_Scanner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="231">
+              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_Codes/Vending_Machine.java">
+        <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/Reverse_NUmber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            <state relative-caret-position="110">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_Codes/Practice1.java">
+        <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/Factorial.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+            <state relative-caret-position="126">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_Codes/Practice2.java">
+        <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/Fibonaci.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java_Codes/Frequency_Of_Each_Char.java">
+        <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/Polindtome_Number.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
+            <state relative-caret-position="357">
+              <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -185,14 +180,20 @@
         <option value="$PROJECT_DIR$/src/java_Codes/Practice2.java" />
         <option value="$PROJECT_DIR$/src/java_Codes/Practice3.java" />
         <option value="$PROJECT_DIR$/src/java_Codes/Frequency_Of_Each_Char.java" />
+        <option value="$PROJECT_DIR$/src/java_Codes/Swapping.java" />
+        <option value="$PROJECT_DIR$/src/java_Codes/interviewQuastions/Sum_OfNumbers_With_Scanner.java" />
+        <option value="$PROJECT_DIR$/src/java_Codes/interviewQuastions/Reverse_NUmber.java" />
+        <option value="$PROJECT_DIR$/src/java_Codes/interviewQuastions/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/java_Codes/interviewQuastions/Fibonaci.java" />
+        <option value="$PROJECT_DIR$/src/java_Codes/interviewQuastions/Polindtome_Number.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
-    <option name="width" value="1939" />
-    <option name="height" value="1049" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -239,6 +240,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java_Codes" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java_Codes" type="462c0819:PsiDirectoryNode" />
+              <item name="interviewQuastions" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -247,7 +255,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551715297864" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551820612245" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -262,13 +270,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Frequency_Of_Each_Char">
-    <configuration name="Frequency_Of_Each_Char" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Codes.Frequency_Of_Each_Char" />
+  <component name="RunManager" selected="Application.Leap_Year">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Codes.interviewQuastions.Factorial" />
       <module name="calculator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Codes.*" />
+          <option name="PATTERN" value="java_Codes.interviewQuastions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,12 +284,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Codes.Practice1" />
+    <configuration name="Fibonaci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Codes.interviewQuastions.Fibonaci" />
       <module name="calculator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Codes.*" />
+          <option name="PATTERN" value="java_Codes.interviewQuastions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,12 +297,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Codes.Practice2" />
+    <configuration name="Leap_Year" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Codes.interviewQuastions.Leap_Year" />
       <module name="calculator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Codes.*" />
+          <option name="PATTERN" value="java_Codes.interviewQuastions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,12 +310,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vending2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Codes.Vending2" />
+    <configuration name="Polindtome_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Codes.interviewQuastions.Polindtome_Number" />
       <module name="calculator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Codes.*" />
+          <option name="PATTERN" value="java_Codes.interviewQuastions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -315,12 +323,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vending_Machin2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Codes.Vending_Machin2" />
+    <configuration name="Reverse_NUmber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Codes.interviewQuastions.Reverse_NUmber" />
       <module name="calculator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Codes.*" />
+          <option name="PATTERN" value="java_Codes.interviewQuastions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -329,19 +337,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Vending_Machin2" />
-      <item itemvalue="Application.Vending2" />
-      <item itemvalue="Application.Practice1" />
-      <item itemvalue="Application.Practice2" />
-      <item itemvalue="Application.Frequency_Of_Each_Char" />
+      <item itemvalue="Application.Reverse_NUmber" />
+      <item itemvalue="Application.Factorial" />
+      <item itemvalue="Application.Fibonaci" />
+      <item itemvalue="Application.Polindtome_Number" />
+      <item itemvalue="Application.Leap_Year" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Frequency_Of_Each_Char" />
-        <item itemvalue="Application.Practice2" />
-        <item itemvalue="Application.Practice1" />
-        <item itemvalue="Application.Vending2" />
-        <item itemvalue="Application.Vending_Machin2" />
+        <item itemvalue="Application.Leap_Year" />
+        <item itemvalue="Application.Polindtome_Number" />
+        <item itemvalue="Application.Fibonaci" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.Reverse_NUmber" />
       </list>
     </recent_temporary>
   </component>
@@ -371,7 +379,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22751679" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2342282" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -380,12 +388,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24362606" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44475922" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.0" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -466,6 +474,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_Codes/Practice2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Polindrom_Word.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -487,17 +502,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_Codes/Practice2.java">
+    <entry file="file://$PROJECT_DIR$/src/java_Codes/Frequency_Of_Each_Char.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        <state relative-caret-position="441">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_Codes/Frequency_Of_Each_Char.java">
+    <entry file="file://$PROJECT_DIR$/src/java_Codes/Swapping.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
+        <state relative-caret-position="273">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/Sum_OfNumbers_With_Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/Reverse_NUmber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/Fibonaci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/Polindtome_Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
         </state>
       </provider>
     </entry>
