@@ -1,0 +1,14 @@
+package java_Codes.interviewQuastions;
+
+public class List_Odd_Numbers {
+    public static void main(String[] args) {
+        int limit =50;
+        for(int  i =0; i<limit; i++){
+            if(i%2==1){
+                System.out.print(i+ " ");
+
+
+            }
+        }
+    }
+}
