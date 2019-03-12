@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7160ceec-2303-44aa-9802-7ccc59bdb3b9" name="Default Changelist" comment="" />
+    <list default="true" id="7160ceec-2303-44aa-9802-7ccc59bdb3b9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reverse_Sentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reverse_Sentence.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,40 +16,41 @@
     <session id="-1744667518">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="3" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="28" />
+          <entry key="java" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="28" />
+          <entry key="JAVA" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="java" value="5841" />
+          <entry key="java" value="8165" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5841" />
+          <entry key="JAVA" value="8165" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
@@ -55,73 +59,76 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_Codes/Swapping.java">
+        <entry file="file://$PROJECT_DIR$/src/inheritance/School.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+            <state relative-caret-position="378">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/Sum_OfNumbers_With_Scanner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/Reverse_NUmber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/Factorial.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/Fibonaci.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/Polindtome_Number.java">
+        <entry file="file://$PROJECT_DIR$/src/java_Codes/DuplicateCharacters.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/Leap_Year.java">
+        <entry file="file://$PROJECT_DIR$/src/java_Codes/Anagram_Or_Not.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="126">
+              <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/Converting_String_To_Char_Array.java">
+        <entry file="file://$PROJECT_DIR$/src/java_Codes/Count_Number_Of_Words.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            <state relative-caret-position="273">
+              <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_Codes/Occurrences_Of_Characters_In_String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Reverse_Sentence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_Codes/Remove_White_Spaces_from_String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java_Codes/First_Non_Repeated_Character.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -130,16 +137,16 @@
         <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/List_Even_Number.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
-              <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/List_Odd_Numbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+            <state relative-caret-position="294">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -166,7 +173,6 @@
         <option value="$PROJECT_DIR$/src/Polindrome_number.java" />
         <option value="$PROJECT_DIR$/src/Is_Anagram.java" />
         <option value="$PROJECT_DIR$/src/Reverse_Word.java" />
-        <option value="$PROJECT_DIR$/src/Reverse_Sentence.java" />
         <option value="$PROJECT_DIR$/src/Max_Number_From_Array.java" />
         <option value="$PROJECT_DIR$/src/Register.java" />
         <option value="$PROJECT_DIR$/src/Vehicle.java" />
@@ -188,14 +194,23 @@
         <option value="$PROJECT_DIR$/src/java_Codes/interviewQuastions/Converting_String_To_Char_Array.java" />
         <option value="$PROJECT_DIR$/src/java_Codes/interviewQuastions/List_Even_Number.java" />
         <option value="$PROJECT_DIR$/src/java_Codes/interviewQuastions/List_Odd_Numbers.java" />
+        <option value="$PROJECT_DIR$/src/java_Codes/interviewQuastions/codingBat/Array1_makeMiddle.java" />
+        <option value="$PROJECT_DIR$/src/inheritance/School.java" />
+        <option value="$PROJECT_DIR$/src/java_Codes/DuplicateCharacters.java" />
+        <option value="$PROJECT_DIR$/src/java_Codes/Anagram_Or_Not.java" />
+        <option value="$PROJECT_DIR$/src/java_Codes/Count_Number_Of_Words.java" />
+        <option value="$PROJECT_DIR$/src/java_Codes/Occurrences_Of_Characters_In_String.java" />
+        <option value="$PROJECT_DIR$/src/Reverse_Sentence.java" />
+        <option value="$PROJECT_DIR$/src/java_Codes/Remove_White_Spaces_from_String.java" />
+        <option value="$PROJECT_DIR$/src/java_Codes/First_Non_Repeated_Character.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+    <option name="x" value="396" />
+    <option name="y" value="-19" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -242,13 +257,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java_Codes" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="calculator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_Codes" type="462c0819:PsiDirectoryNode" />
-              <item name="interviewQuastions" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -257,7 +265,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551821865974" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552406986009" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -272,13 +280,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.List_Odd_Numbers">
-    <configuration name="Converting_String_To_Char_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Codes.interviewQuastions.Converting_String_To_Char_Array" />
+  <component name="RunManager" selected="Application.First_Non_Repeated_Character">
+    <configuration name="Count_Number_Of_Words" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Codes.Count_Number_Of_Words" />
       <module name="calculator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Codes.interviewQuastions.*" />
+          <option name="PATTERN" value="java_Codes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,12 +294,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leap_Year" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Codes.interviewQuastions.Leap_Year" />
+    <configuration name="First_Non_Repeated_Character" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Codes.First_Non_Repeated_Character" />
       <module name="calculator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Codes.interviewQuastions.*" />
+          <option name="PATTERN" value="java_Codes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,12 +307,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="List_Even_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Codes.interviewQuastions.List_Even_Number" />
+    <configuration name="Occurrences_Of_Characters_In_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Codes.Occurrences_Of_Characters_In_String" />
       <module name="calculator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Codes.interviewQuastions.*" />
+          <option name="PATTERN" value="java_Codes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,12 +320,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="List_Odd_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Codes.interviewQuastions.List_Odd_Numbers" />
+    <configuration name="Remove_White_Spaces_from_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Codes.Remove_White_Spaces_from_String" />
       <module name="calculator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Codes.interviewQuastions.*" />
+          <option name="PATTERN" value="java_Codes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,33 +333,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Polindtome_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Codes.interviewQuastions.Polindtome_Number" />
+    <configuration name="Reverse_Sentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reverse_Sentence" />
       <module name="calculator" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_Codes.interviewQuastions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Polindtome_Number" />
-      <item itemvalue="Application.Leap_Year" />
-      <item itemvalue="Application.Converting_String_To_Char_Array" />
-      <item itemvalue="Application.List_Even_Number" />
-      <item itemvalue="Application.List_Odd_Numbers" />
+      <item itemvalue="Application.Count_Number_Of_Words" />
+      <item itemvalue="Application.Occurrences_Of_Characters_In_String" />
+      <item itemvalue="Application.Reverse_Sentence" />
+      <item itemvalue="Application.Remove_White_Spaces_from_String" />
+      <item itemvalue="Application.First_Non_Repeated_Character" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.List_Odd_Numbers" />
-        <item itemvalue="Application.List_Even_Number" />
-        <item itemvalue="Application.Converting_String_To_Char_Array" />
-        <item itemvalue="Application.Leap_Year" />
-        <item itemvalue="Application.Polindtome_Number" />
+        <item itemvalue="Application.First_Non_Repeated_Character" />
+        <item itemvalue="Application.Remove_White_Spaces_from_String" />
+        <item itemvalue="Application.Reverse_Sentence" />
+        <item itemvalue="Application.Occurrences_Of_Characters_In_String" />
+        <item itemvalue="Application.Count_Number_Of_Words" />
       </list>
     </recent_temporary>
   </component>
@@ -381,7 +383,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2342282" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24765101" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -390,15 +392,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44475922" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23087819" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.014164306" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -430,9 +432,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="64" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
-          <folding>
-            <element signature="e#389#390#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -441,10 +440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding>
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -497,13 +492,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Reverse_Sentence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java_Codes/Frequency_Of_Each_Char.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
@@ -518,6 +506,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/codingBat/Array1_makeMiddle.java" />
     <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/Sum_OfNumbers_With_Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -527,8 +516,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/Reverse_NUmber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="336">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -556,7 +545,7 @@
     <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/Leap_Year.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -570,14 +559,73 @@
     <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/List_Even_Number.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
-          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/List_Odd_Numbers.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritance/School.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_Codes/DuplicateCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_Codes/Anagram_Or_Not.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_Codes/Count_Number_Of_Words.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_Codes/Occurrences_Of_Characters_In_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Reverse_Sentence.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_Codes/Remove_White_Spaces_from_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_Codes/First_Non_Repeated_Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
         </state>
       </provider>
     </entry>
