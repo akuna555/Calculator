@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7160ceec-2303-44aa-9802-7ccc59bdb3b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/calculator/java_Codes/MySucces.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +16,8 @@
     <session id="-1744667518">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="35" />
-          <entry key="project.open.time.0" value="7" />
+          <entry key="project.closed" value="36" />
+          <entry key="project.open.time.0" value="9" />
           <entry key="project.open.time.1" value="9" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
@@ -28,30 +29,30 @@
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="4" />
           <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="36" />
+          <entry key="project.opened" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="86" />
+          <entry key="java" value="89" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="86" />
+          <entry key="JAVA" value="89" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="java" value="16353" />
+          <entry key="java" value="17183" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="16353" />
+          <entry key="JAVA" value="17183" />
           <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
@@ -59,15 +60,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_Codes/Practice1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_Codes/Practice2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -131,11 +123,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="273">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/arrayAssingment/Practice01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#78#102#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/arrayAssingment/Polindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+              <folding>
+                <element signature="e#27#51#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -155,10 +172,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java_Codes/Vending_Machine.java" />
-        <option value="$PROJECT_DIR$/src/java_Codes/Vending_Machin2.java" />
-        <option value="$PROJECT_DIR$/src/java_Codes/Vending2.java" />
-        <option value="$PROJECT_DIR$/src/java_Codes/Practice1.java" />
         <option value="$PROJECT_DIR$/src/java_Codes/Practice2.java" />
         <option value="$PROJECT_DIR$/src/java_Codes/Practice3.java" />
         <option value="$PROJECT_DIR$/src/java_Codes/Frequency_Of_Each_Char.java" />
@@ -206,14 +219,18 @@
         <option value="$PROJECT_DIR$/src/java_Codes/interviewQuastions/Practice.java" />
         <option value="$PROJECT_DIR$/src/java_Codes/interviewQuastions/Pyramid_Pattern_Example.java" />
         <option value="$PROJECT_DIR$/src/java_Codes/MySucces.java" />
+        <option value="$PROJECT_DIR$/src/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/arrayAssingment/Practice01.java" />
+        <option value="$PROJECT_DIR$/src/arrayAssingment/LoginMethodExample.java" />
+        <option value="$PROJECT_DIR$/src/arrayAssingment/Polindrome.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+    <option name="x" value="697" />
+    <option name="y" value="51" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -241,6 +258,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -258,17 +276,22 @@
               <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
               <item name="calculator" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="arrayAssingment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java_Codes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554412234458" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559431638778" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -283,13 +306,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MySucces">
-    <configuration name="DuplicateElementsArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Codes.interviewQuastions.DuplicateElementsArray" />
+  <component name="RunManager" selected="Application.Polindrome">
+    <configuration name="MySucces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Codes.MySucces" />
       <module name="calculator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Codes.interviewQuastions.*" />
+          <option name="PATTERN" value="java_Codes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,12 +320,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MySucces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Codes.MySucces" />
+    <configuration name="Polindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayAssingment.Polindrome" />
       <module name="calculator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Codes.*" />
+          <option name="PATTERN" value="arrayAssingment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,12 +346,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintFrom1_to_10_No_Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Codes.interviewQuastions.PrintFrom1_to_10_No_Loops" />
+    <configuration name="Practice01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayAssingment.Practice01" />
       <module name="calculator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Codes.interviewQuastions.*" />
+          <option name="PATTERN" value="arrayAssingment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -350,19 +373,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DuplicateElementsArray" />
-      <item itemvalue="Application.PrintFrom1_to_10_No_Loops" />
       <item itemvalue="Application.Practice" />
       <item itemvalue="Application.Pyramid_Pattern_Example" />
       <item itemvalue="Application.MySucces" />
+      <item itemvalue="Application.Practice01" />
+      <item itemvalue="Application.Polindrome" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Polindrome" />
+        <item itemvalue="Application.Practice01" />
         <item itemvalue="Application.MySucces" />
         <item itemvalue="Application.Pyramid_Pattern_Example" />
         <item itemvalue="Application.Practice" />
-        <item itemvalue="Application.PrintFrom1_to_10_No_Loops" />
-        <item itemvalue="Application.DuplicateElementsArray" />
       </list>
     </recent_temporary>
   </component>
@@ -392,7 +415,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31946307" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24228188" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -401,15 +424,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2917847" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.15722379" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.055240795" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.08215298" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -424,21 +447,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Polindrom_Word.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Polindrome_number.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/codingBat/Array1_makeMiddle.java" />
     <entry file="file://$PROJECT_DIR$/src/java_Codes/interviewQuastions/Sum_OfNumbers_With_Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -758,8 +766,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="273">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrayAssingment/LoginMethodExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrayAssingment/Practice01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#78#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrayAssingment/Polindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="e#27#51#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
